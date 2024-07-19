@@ -1,0 +1,65 @@
+TUGAS
+
+% Jawaban di comment
+
+Soal Laravel 
+
+1. Apa yang dimaksud dengan Laravel?
+a) Sebuah bahasa pemrograman
+% b) Sebuah kerangka kerja (framework) PHP
+c) Sebuah platform pengembangan web
+d) Sebuah database management system
+
+2. Siapakah pencipta Laravel?
+% a) Taylor Otwell
+b) Mark Zuckerberg
+c) Elon Musk
+d) Steve Jobs
+
+3. Manakah dari pernyataan berikut yang benar tentang Laravel?
+a) Laravel adalah kerangka kerja JavaScript
+% b) Laravel memudahkan pengembangan aplikasi web dengan PHP
+c) Laravel hanya cocok digunakan untuk proyek-proyek besar
+d) Laravel hanya bisa dijalankan di sistem operasi Windows
+
+4. Apa tujuan utama dari Laravel?
+% a) Mempermudah pengembangan aplikasi web dengan PHP
+b) Menjadi pesaing terbesar bagi kerangka kerja Ruby on Rails
+c) Menyediakan platform untuk pengembangan game
+d) Menjadi perusahaan konsultasi teknologi terkemuka
+
+5. Fungsi apa yang tidak termasuk dalam fitur-fitur Laravel?
+a) Routing
+b) Authentication
+c) Database Management
+% d) Graphics Design
+
+6. Apa yang dimaksud dengan "Eloquent" dalam konteks Laravel?
+a) Sebuah bahasa pemrograman yang digunakan dalam Laravel
+b) Sebuah template engine bawaan Laravel
+% c) Sebuah fitur yang memudahkan interaksi dengan database menggunakan model
+d) Sebuah fungsi untuk mengelola file-file dalam aplikasi Laravel
+
+7. Fitur apa yang memungkinkan Anda mengelola dependencies dalam proyek Laravel?
+% a) Composer
+b) Laravel Forge
+c) Laravel Mix
+d) Laravel Valet
+
+8. Bagaimana cara menginstal Laravel?
+a) Mengunduh file zip dan mengekstraknya ke dalam direktori lokal
+% b) Menggunakan perintah `composer create-project laravel/laravel nama-proyek`
+c) Mengunduh aplikasi dari toko aplikasi ponsel
+d) Menginstal melalui npm
+
+9. Apa yang dimaksud dengan "Blade" dalam Laravel?
+a) Sebuah teknologi pemutaran video
+% b) Sebuah template engine bawaan Laravel
+c) Sebuah fitur untuk menyimpan password
+d) Sebuah jenis pisau dapur
+
+10. Apa yang dimaksud dengan "Middleware" dalam konteks Laravel?
+a) Sebuah jenis software antivirus
+% b) Sebuah lapisan yang ditempatkan di antara permintaan masuk dan respons keluar
+c) Sebuah fitur untuk mengelola data pengguna
+d) Sebuah perangkat keras networking
