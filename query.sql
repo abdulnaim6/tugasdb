@@ -2,6 +2,10 @@
 
 -- membuat db
 CREATE DATABASE onetoone;
+
+-- menghapus database
+DROP DATABASE onetoone;
+
 -- membuat table
 CREATE TABLE Users (
     user_id INT PRIMARY KEY,
@@ -41,6 +45,10 @@ DELETE FROM Users WHERE user_id = 2;
 
 -- membuat database
 CREATE DATABASE onetomany;
+
+-- menghapus database
+DROP DATABASE onetomany;
+
 -- membuat table
 CREATE TABLE Authors (
     author_id INT PRIMARY KEY,
